@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "local-deepseek.helloWorld",
-        "title": "Hello World"
+        "command": "local-deepseek.start",
+        "title": "Run Local DeepSeek"
       }
     ]
   },
