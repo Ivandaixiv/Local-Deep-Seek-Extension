@@ -2,6 +2,18 @@
 
 This is the README for your extension "local-deepseek". After writing up a brief description, we recommend including the following sections.
 
+## Instructions to Run the Extension
+
+1. **Open the Project in VS Code**: Open your project folder in Visual Studio Code.
+
+2. **Install Dependencies**: Make sure all dependencies are installed by running `npm install` in the terminal.
+
+3. **Compile the Extension**: Run `npm run compile` to compile the TypeScript code.
+
+4. **Start the Extension**: Press `F5` to open a new VS Code window with your extension loaded. This will start a new instance of VS Code with your extension enabled.
+
+5. **Run the Command**: In the new VS Code window, open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS) and type `Run Local DeepSeek` to execute your extension's command.
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
